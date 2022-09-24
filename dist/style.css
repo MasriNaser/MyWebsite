@@ -53,3 +53,16 @@ li:hover{
 li:active{
   color: green;
 }
+.items{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  background-color: #555;
+}
+.item{
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  color: white;
+  margin: auto;
+}
